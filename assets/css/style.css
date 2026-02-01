@@ -178,6 +178,9 @@ p{ margin: 0 0 1rem; }
     box-shadow: var(--shadow);
     display:none;
   }
+
+  /* Devyte{th3_r34l_4nsw3r_1s_st1ll_h1dd3n} */
+  
   .site-nav.open{ display:flex; }
   .site-nav a{ border-radius: 12px; }
 }
